@@ -1,4 +1,4 @@
-//import java.util.concurrent.Semaphore
+package `second week`//import java.util.concurrent.Semaphore
 //import java.util.concurrent.atomic.AtomicInteger
 //
 //fun makeCoffee(orders: AtomicInteger, semaphore: Semaphore) {

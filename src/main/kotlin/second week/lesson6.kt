@@ -1,4 +1,4 @@
-//package lesson6////    for (index in indices) {
+package `second week`//package lesson6////    for (index in indices) {
 //////        if (index < 0 || index >= array.size) {
 //////            error("index out of bounds")
 //////fun updateIndex(array: Array<String>, vararg indices: Int, func: (String) -> String) {

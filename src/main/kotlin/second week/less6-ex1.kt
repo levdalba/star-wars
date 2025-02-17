@@ -1,3 +1,4 @@
+package `second week`
 //import kotlin.random.Random
 //
 //enum class Fraction {

@@ -1,3 +1,5 @@
+package `second week`
+
 import kotlinx.coroutines.*
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.sync.Mutex

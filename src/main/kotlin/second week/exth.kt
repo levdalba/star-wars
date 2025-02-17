@@ -1,3 +1,5 @@
+package `second week`
+
 //enum class Fraction {
 //    JEDI, SITH, REBEL, IMPERIAL
 //}

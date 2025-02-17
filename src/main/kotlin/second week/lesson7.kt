@@ -1,4 +1,4 @@
-//import io.github.oshai.kotlinlogging.KotlinLogging
+package `second week`//import io.github.oshai.kotlinlogging.KotlinLogging
 //import java.io.File
 //import java.io.IOException
 //import kotlin.random.Random
